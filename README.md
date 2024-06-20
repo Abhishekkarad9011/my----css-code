@@ -1,2 +1,2 @@
 # my----css-code
-my css code lern with sigma batch apna college
+My css code lerning with sigma batch, apna college
